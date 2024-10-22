@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -137,11 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -172,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f85665d9e82b62db",
+  "active": "b31c59a3ec7a7459",
   "lastOpenFiles": [
     "Welcome.md",
     "main/UI Design/Assets/IMG_1739.png",
