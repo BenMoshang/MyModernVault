@@ -24,13 +24,14 @@
             "id": "841e09325c47ac7f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
+                "file": "main/UI Design/test file.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
+              "icon": "lucide-file",
+              "title": "test file"
             }
           }
         ],
@@ -151,9 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "main/UI Design/test file.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of test file"
             }
           },
           {
@@ -186,6 +189,7 @@
   },
   "active": "841e09325c47ac7f",
   "lastOpenFiles": [
+    "main/UI Design/test file.md",
     "conflict-files-obsidian-git.md",
     "gitignore",
     "Welcome.md",
