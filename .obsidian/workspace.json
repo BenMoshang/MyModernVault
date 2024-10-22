@@ -13,27 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".smart-env/multi/2024-10-18_md.ajson",
+                "file": ".obsidian/app.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (2024-10-18_md.ajson)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "773d58bf45a23975",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f9325b9d59378db0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Diff View (app.json)"
             }
           }
         ]
