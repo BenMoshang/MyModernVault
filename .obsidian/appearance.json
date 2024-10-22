@@ -1,11 +1,3 @@
 {
-  "theme": "obsidian",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
-  "translucency": true,
-  "accentColor": "#665cf5",
-  "monospaceFontFamily": "Fira Code",
-  "enabledCssSnippets": [],
-  "baseFontSizeAction": false,
-  "cssTheme": "Tokyo Night"
+  "theme": "obsidian"
 }
