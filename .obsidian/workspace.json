@@ -53,15 +53,28 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "main/.obsidian/appearance.json",
-                "staged": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (appearance.json)"
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "4cb8a6a386420c76",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/core-plugins.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (core-plugins.json)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,9 +190,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -192,8 +207,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -232,8 +247,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -252,8 +267,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -265,31 +280,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": true,
-      "random-note:Open random note": true,
       "graph:Open graph view": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
-      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "smart-connections:Open: View Smart Connections": true,
-      "smart-connections:Open: Smart Chat Conversation": true,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": true,
-      "audio-recorder:Start/stop recording": false,
       "command-palette:Open command palette": true
     }
   },
   "active": "3c01d3f0b8e99b3b",
   "lastOpenFiles": [
-    "main/UI Design/test file.md",
     "conflict-files-obsidian-git.md",
+    "Welcome.md",
+    "main/UI Design/test file.md",
     "main/UI Design/Assets/IMG_1739.png",
     "main/UI Design/Assets/IMG_1737.png",
     "main/UI Design/Assets/IMG_1736.png",
@@ -333,7 +337,6 @@
     "main/Code Frameworks/CSS/Resources/web.dev.resource.md",
     "main/Code Frameworks/CSS/Resources/Typescale.resource.md",
     "main/Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
-    "UI Design/X-height, Baseline, Cap-height.md",
     "Untitled.canvas"
   ]
 }
