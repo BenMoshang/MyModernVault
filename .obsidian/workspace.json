@@ -38,17 +38,17 @@
             "id": "dfd555dc447cbf02",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "main/Self/Accomplishments/1stgreen home (Project).md",
-                "staged": true
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (1stgreen home (Project))"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,8 +273,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "dfd555dc447cbf02",
+  "active": "2f46a96b257c4cf1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "main/UI Design/Assets/IMG_1739.png",
     "main/UI Design/Assets/IMG_1737.png",
     "main/UI Design/Assets/IMG_1736.png",
@@ -313,13 +314,11 @@
     "main/Code Frameworks/CSS/Styling/Nested border-radius.md",
     "main/Code Frameworks/CSS/Styling/Logo Blur color effect.md",
     "main/Code Frameworks/CSS/Styling/before & after pseudo.md",
-    "main/Code Frameworks/CSS/Snippets/IMG_1781.png",
     "main/Code Frameworks/CSS/Responsivness/img reset.md",
     "main/Code Frameworks/CSS/Responsivness/Column- span.md",
     "main/Code Frameworks/CSS/Resources/web.dev.resource.md",
     "main/Code Frameworks/CSS/Resources/Typescale.resource.md",
     "main/Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
-    "conflict-files-obsidian-git.md",
     "UI Design/X-height, Baseline, Cap-height.md",
     "Untitled.canvas"
   ]
