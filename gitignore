@@ -9,7 +9,7 @@
 .obsidian/appearance.json
 .obsidian/vault-stats.json
 .obsidian/plugins/
-# Exclude system files
+
 .DS_Store
 Thumbs.db
 *.log
