@@ -2,9 +2,13 @@
 .obsidian/
 .obsidian/themes
 .obsidian/appearance.json
+<<<<<<< HEAD:gitignore
 .obsidian/app.json
 .obsidian/workspace.json
 .obsidian/appearance.json
+=======
+.obsidian/workspace.json
+>>>>>>> 8c2412a70a61590b85fd79dd6da05bc6c2254b9e:.gitignore
 
 # Exclude system files
 .DS_Store
