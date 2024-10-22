@@ -25,14 +25,13 @@
             "id": "2f46a96b257c4cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Code Frameworks/CSS/Styling/Nested border-radius.md",
-                "mode": "source",
-                "source": false
+                "file": ".gitignore",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Nested border-radius"
+              "icon": "git-pull-request",
+              "title": "Diff View (.gitignore)"
             }
           },
           {
@@ -166,11 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Code Frameworks/CSS/Styling/Nested border-radius.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Nested border-radius"
+              "title": "Outline"
             }
           },
           {
@@ -277,8 +274,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1675df15cade2d6a",
+  "active": "2f46a96b257c4cf1",
   "lastOpenFiles": [
+    "Code Frameworks/CSS/Styling/Nested border-radius.md",
     "gitignore",
     "smart-chats",
     "Code Frameworks/CSS/Styling/Logo Blur color effect.md",
@@ -323,7 +321,6 @@
     "MyModernVault/Code Frameworks/CSS/Styling",
     "MyModernVault/Code Frameworks/CSS/Snippets",
     "MyModernVault/Code Frameworks/CSS/Responsivness",
-    "MyModernVault/Code Frameworks/CSS/Resources",
     "MyModernVault/Code Frameworks/SCSS/Guidelines (Resource).md",
     "MyModernVault/UI Design/X-height, Baseline, Cap-height.md"
   ]
