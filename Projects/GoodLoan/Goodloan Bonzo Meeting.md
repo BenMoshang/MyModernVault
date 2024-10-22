@@ -1,0 +1,115 @@
+## October 18, 2024
+
+##NOTES
+
+MACBOOKBOOK AIR 13INCHS
+
+
+OVERALL
+
+ - 
+ 
+
+## AUTHNAVBAR: 
+~~MAKE LOGOUT BUTTON AND FUNCTIONALITY BROKEN~~
+CHANGE AUTH TO LOCAL STORAGE [*priority : low*]
+
+[collapse sidebar button] 
+HIDE BUTTON  THEN SHOW FOR NAVBAR[*priority : medium*]
+
+## MODULE1:
+### - GREETING SECTION
+- HAVE A BR BETWEEN HELLO ROBERT AND SHARON. BREAK. (BIGGER GAP)
+
+## FINANCIAL: CARD :
+ - TO PAYMENTS ADD TO THE CENT
+
+PARA: PUT A : AT THE END OF THE PHRASE
+
+## MODULE 2:
+
+WARNING CARD:
+- RIBBON: CHECK SHADOW AND ANIMATION ITS BROKEN ON SAFARI... IT LOOKS BAD
+- PARA - TITLE CASE.
+- RIBBON SHOULD BE SHOW NUMBERS
+
+### BLENDED CARD:
+RIBBON: HIDE NUMBERS:
+
+- PARA CHANGE:
+REPRESENTS THE "WEIGHTED" AVERAGE INT RATE.
+
+### MODULE 3:
+BLUE SIDE: PUT A COMMA IN DESC 4 INJECTION
+
+### MODULE 4:
+SAVE -> SAVING
+
+### BLENDED CARD: 
+PARA: ADJUSTED COST NOT TRUE.
+NEWTERM SAVINGS APPLIED INJECTION FOR BLUE COLUMN
+
+
+
+
+### MODULE 5 :
+
+EFFECTIVE RATE: 
+
+1ST SENTENCE IS MORE WEIGHT AND SLIGHTLY LARGER. FOR ALL CARDS TOO BUT SPECIFICALLY THIS ONE.
+
+FOOT NOTE :
+INTERESTED ELIMINATED: NOT REDUCED BY:
+WILL BE RESTRUCTED..
+
+TAX BENEFITS: 
+FOOTNOTES:
+TAX DEDUCTION INCREASED -
+
+
+monthly savings: 
+total yearlynetworth convert.
+
+
+ #GoodLoan 
+
+## CHART:
+
+### compare column:
+calculated rates:
+footnote - > lower overall payment note 
+
+loan amount ->  total interest:
+the current footnote in the effective rate display  + "saved"
+
+
+
+
+
+existing plan at the bottom:
+
+label - wealth created monthly.
+
+laurel change to home equity -> wealth created 
+
+
+change the variable at the last slide to monthly total with goodloan. with tthe monthly savings.
+
+
+
+##INTERNAL APPLICATION:
+HEADER: MAKE THE NAME OF FILE NOT USER DETAILS
+
+
+
+USERDETAILS:
+
+QUICK ACCESS PANEL 
+
+
+
+
+
+## ~~HEADER:~~ 
+- ~~CHANGE REGISTER TO" OPEN MY DASHBOARD"~~
+- ~~FIX ROUTING~~
