@@ -19,8 +19,22 @@
               "icon": "git-pull-request",
               "title": "Diff View (workspace.json)"
             }
+          },
+          {
+            "id": "841e09325c47ac7f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31c59a3ec7a7459",
+  "active": "841e09325c47ac7f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "gitignore",
     "Welcome.md",
     "main/UI Design/Assets/IMG_1739.png",
     "main/UI Design/Assets/IMG_1737.png",
@@ -208,7 +224,6 @@
     "main/Code Frameworks/CSS/Styling",
     "main/Code Frameworks/CSS/Snippets",
     "main/Code Frameworks/CSS/Responsivness",
-    "main/Code Frameworks/CSS/Resources",
-    "main/Code Frameworks/CSS/Assets"
+    "main/Code Frameworks/CSS/Resources"
   ]
 }
