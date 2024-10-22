@@ -8,48 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbb295b2ec70ee97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goodloan Bonzo Meeting"
-            }
-          },
-          {
             "id": "2f46a96b257c4cf1",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".gitignore",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (.gitignore)"
+              "title": "Diff View (workspace.json)"
             }
           },
           {
-            "id": "6d5827bfb3e48372",
+            "id": "43c97abfd10651db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Frameworks/SCSS/Guidelines/Syntax & Formatting/Using Quotes.md",
-                "mode": "source",
+                "file": "Welcome.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Quotes"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "dfd555dc447cbf02",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "main/Self/Accomplishments/1stgreen home (Project).md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (1stgreen home (Project))"
+            }
+          },
+          {
+            "id": "8e26999bd5e9f48e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/vault-stats.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (vault-stats.json)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,54 +286,54 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2f46a96b257c4cf1",
+  "active": "3c01d3f0b8e99b3b",
   "lastOpenFiles": [
-    "Code Frameworks/CSS/Styling/Nested border-radius.md",
     "gitignore",
-    "smart-chats",
-    "Code Frameworks/CSS/Styling/Logo Blur color effect.md",
-    "Code Frameworks/CSS/Styling/before & after pseudo.md",
-    "Code Frameworks/SCSS/Benefits/SCSS Browser Compatibility.md",
-    "GPT Prompts/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "UI Design/Assets/IMG_1739.png",
+    "UI Design/Assets/IMG_1737.png",
+    "UI Design/Assets/IMG_1736.png",
+    "UI Design/Assets/IMG_1735.png",
+    "UI Design/Assets/IMG_1734.png",
+    "UI Design/Assets/IMG_1678.png",
+    "UI Design/Assets/IMG_1733.png",
+    "UI Design/Assets/IMG_1678 1.png",
+    "UI Design/Assets/IMG_1677.webp",
+    "UI Design/X-height, Baseline, Cap-height.md",
+    "UI Design/UI design.md",
+    "UI Design/SCALING SYSTEM.md",
+    "UI Design/text On color background.md",
+    "UI Design/Points or pts Units..md",
+    "UI Design/Pixels or px.md",
+    "UI Design/Assets",
+    "UI Design",
+    "Templates/CSS Note Templates.md",
+    "Templates",
+    "Self/Accomplishments/1stgreen home (Project).md",
+    "Self/Accomplishments",
+    "Self",
+    "README.md",
     "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
-    "GPT Prompts",
-    "Projects/GoodLoan/Meetings",
-    "Code Frameworks/SCSS/Guidelines/Guidelines (Resource).md",
-    "Code Frameworks/SCSS/Guidelines/Syntax & Formatting/Using Quotes.md",
-    "Pasted image 20241022085912.png",
-    "Code Frameworks/SCSS/Guidelines/Syntax & Formatting",
-    "Code Frameworks/SCSS/Guidelines",
-    "Code Frameworks/SCSS/Resources",
     "Projects/MyModernSite/How to fix projects section in My ModernSite.md",
+    "Projects/GoodLoan/Meetings",
+    "Projects/MyModernSite",
+    "Projects/GoodLoan",
+    "Projects",
+    "Pasted image 20241022085912.png",
+    "GPT Prompts/Untitled.md",
+    "GPT Prompts",
+    "Code Frameworks/SCSS/Guidelines/Syntax & Formatting/Using Quotes.md",
+    "Code Frameworks/SCSS/Guidelines/Guidelines (Resource).md",
+    "Code Frameworks/SCSS/Benefits/SCSS Browser Compatibility.md",
+    "Code Frameworks/CSS/Styling/Logo Blur color effect.md",
+    "Code Frameworks/CSS/Styling/Nested border-radius.md",
+    "Code Frameworks/CSS/Styling/before & after pseudo.md",
+    "Code Frameworks/CSS/Responsivness/img reset.md",
+    "Code Frameworks/CSS/Responsivness/Column- span.md",
     "Code Frameworks/CSS/Resources/web.dev.resource.md",
-    "202410220847.md",
-    "202410220846.md",
-    "2024-10-22.md",
-    "Untitled.canvas",
-    "MyModernVault/Code Frameworks/CSS/Styling/Nested border-radius.md",
-    "MyModernVault/Code Frameworks/CSS/Styling/Logo Blur color effect.md",
-    "MyModernVault/Code Frameworks/CSS/Styling/before & after pseudo.md",
-    "MyModernVault/Code Frameworks/CSS/Snippets/IMG_1781.png",
-    "MyModernVault/Code Frameworks/CSS/Responsivness/img reset.md",
-    "MyModernVault/Code Frameworks/CSS/Responsivness/Column- span.md",
-    "MyModernVault/Code Frameworks/CSS/Resources/web.dev.resource.md",
-    "MyModernVault/Code Frameworks/CSS/Resources/Typescale.resource.md",
-    "MyModernVault/Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1732.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1731.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1694.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1730.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1691.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1676.webp",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1680.png",
-    "MyModernVault/Code Frameworks/CSS/Assets/IMG_1676 1.webp",
-    "MyModernVault/Code Frameworks/SCSS/Benefits/SCSS Browser Compatibility.md",
-    "MyModernVault/Projects/MyModernSite/How to fix projects section in My ModernSite.md",
-    "MyModernVault/Projects/GoodLoan/Goodloan Bonzo Meeting.md",
-    "MyModernVault/Code Frameworks/CSS/Styling",
-    "MyModernVault/Code Frameworks/CSS/Snippets",
-    "MyModernVault/Code Frameworks/CSS/Responsivness",
-    "MyModernVault/Code Frameworks/SCSS/Guidelines (Resource).md",
-    "MyModernVault/UI Design/X-height, Baseline, Cap-height.md"
+    "Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
+    "Code Frameworks/CSS/Resources/Typescale.resource.md",
+    "Welcome.md",
+    "Untitled.canvas"
   ]
 }

@@ -1,5 +1,10 @@
 # Obsidian vault config files
 .obsidian/
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/workspace.json
+.obsidian/appearance.json
 
 # Exclude system files
 .DS_Store
