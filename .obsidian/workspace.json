@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+                "file": "Templates/CSS Note Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEORGE PHONE CALL"
+              "title": "CSS Note Templates"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+                "file": "Templates/CSS Note Templates.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GEORGE PHONE CALL"
+              "title": "Backlinks for CSS Note Templates"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+                "file": "Templates/CSS Note Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GEORGE PHONE CALL"
+              "title": "Outgoing links from CSS Note Templates"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md"
+                "file": "Templates/CSS Note Templates.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of GEORGE PHONE CALL"
+              "title": "Outline of CSS Note Templates"
             }
           },
           {
@@ -185,11 +185,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f956ea255ab48e9",
+  "active": "994e6972e413503c",
   "lastOpenFiles": [
+    "UI Design/text On color background.md",
+    "UI Design/UI design.md",
+    "UI Design/X-height, Baseline, Cap-height.md",
+    "UI Design/test file.md",
+    "UI Design/Points or pts Units..md",
+    "UI Design/SCALING SYSTEM.md",
+    "UI Design/Pixels or px.md",
+    "UI Design/Resources/UI  CHEATSHEET.md",
+    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+    "UI Design/Resources",
     "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
     "Projects/MyModernSite/How to fix projects section in My ModernSite.md",
-    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
