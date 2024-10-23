@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GEORGE PHONE CALL"
+              "title": "Backlinks"
             }
           },
           {
@@ -108,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GEORGE PHONE CALL"
+              "title": "Outgoing links"
             }
           },
           {
@@ -164,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe9cd870b54c8144",
+  "active": "2f956ea255ab48e9",
   "lastOpenFiles": [
+    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+    "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md"
+    "Untitled.canvas"
   ]
 }
