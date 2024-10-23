@@ -11,10 +11,14 @@
             "id": "2f956ea255ab48e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GEORGE PHONE CALL"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GEORGE PHONE CALL"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from GEORGE PHONE CALL"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of GEORGE PHONE CALL"
             }
           },
           {
@@ -179,8 +187,9 @@
   },
   "active": "2f956ea255ab48e9",
   "lastOpenFiles": [
-    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
     "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
+    "Projects/MyModernSite/How to fix projects section in My ModernSite.md",
+    "Projects/GoodLoan/Meetings/GEORGE PHONE CALL.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
