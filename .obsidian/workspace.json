@@ -1,94 +1,37 @@
 {
   "main": {
-    "id": "baf7f65ce749fd86",
+    "id": "2ea7566637458957",
     "type": "split",
     "children": [
       {
-        "id": "34a39c93ae8feab8",
+        "id": "64403c227427890f",
         "type": "tabs",
         "children": [
           {
-            "id": "2f46a96b257c4cf1",
+            "id": "07557840311b17bc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "43c97abfd10651db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "dfd555dc447cbf02",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "main/Self/Accomplishments/1stgreen home (Project).md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (1stgreen home (Project))"
-            }
-          },
-          {
-            "id": "cce45d6baf7d6119",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "4cb8a6a386420c76",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "main/UI Design/Pixels or px.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Pixels or px)"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6f938aed16dc6fe9",
+    "id": "7b3e5737330064ac",
     "type": "split",
     "children": [
       {
-        "id": "50cd69a69c75b902",
+        "id": "6c012f56389d9a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "1675df15cade2d6a",
+            "id": "5862834843f04114",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,7 +43,7 @@
             }
           },
           {
-            "id": "d5222c5f7adf95f7",
+            "id": "b2f5728d16151ae2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,7 +60,7 @@
             }
           },
           {
-            "id": "ae661a2ce397a0f9",
+            "id": "68dffe3aae2a04f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,23 +73,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7b781c0ec3b1f88f",
+    "id": "d3a6322c56e34d7f",
     "type": "split",
     "children": [
       {
-        "id": "9ff2a81f99a89603",
+        "id": "2220096127b19514",
         "type": "tabs",
         "children": [
           {
-            "id": "af3ae943e2e90755",
+            "id": "46a4a85170486645",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202410181443.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +98,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202410181443"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "112d07de5192fdc4",
+            "id": "0fadff592656255c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -173,7 +115,7 @@
             }
           },
           {
-            "id": "79f518899c7058da",
+            "id": "a8da9a8d8d1b59c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,53 +128,27 @@
             }
           },
           {
-            "id": "1e3f2b2459bf92b2",
+            "id": "f3ce3cb5cd8e7adf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
-            "id": "830a26d810e9c706",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "05964b4ac227b40b",
+            "id": "36952cd8fdf05d9a",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "64487ed1130f281a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3c01d3f0b8e99b3b",
+            "id": "9b12a5ad8614e26d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -240,39 +156,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "bf7a5f244f2b740b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4435056205060141",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "11124a712c2a1e89",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -280,114 +166,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-<<<<<<< HEAD
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1675df15cade2d6a",
-  "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20241022085912.png",
-    "UI Design/Assets/IMG_1739.png",
-    "UI Design/Assets/IMG_1737.png",
-    "UI Design/Assets/IMG_1736.png",
-    "UI Design/Assets/IMG_1735.png",
-    "UI Design/Assets/IMG_1734.png",
-    "UI Design/Assets/IMG_1678 1.png",
-    "UI Design/Assets/IMG_1733.png",
-    "UI Design/Assets/IMG_1678.png",
-    "UI Design/Assets/IMG_1677.webp",
-    "UI Design/X-height, Baseline, Cap-height.md",
-    "UI Design/text On color background.md",
-    "UI Design/UI design.md",
-    "UI Design/test file.md",
-    "UI Design/SCALING SYSTEM.md",
-    "UI Design/Points or pts Units..md",
-    "UI Design/Pixels or px.md",
-    "UI Design/Assets",
-    "UI Design",
-    "Templates/CSS Note Templates.md",
-    "Templates",
-    "Self/Accomplishments/1stgreen home (Project).md",
-    "Self/Accomplishments",
-    "Self",
-    "Projects/GoodLoan/Meetings/Goodloan Bonzo Meeting.md",
-    "Projects/MyModernSite/How to fix projects section in My ModernSite.md",
-    "Projects/GoodLoan/Meetings",
-    "Projects/MyModernSite",
-    "Projects/GoodLoan",
-    "Projects",
-    "GPT Prompts/Untitled.md",
-    "GPT Prompts",
-    "Code Frameworks/SCSS/Guidelines/Syntax & Formatting/Using Quotes.md",
-    "Code Frameworks/SCSS/Guidelines/Guidelines (Resource).md",
-    "Code Frameworks/SCSS/Benefits/SCSS Browser Compatibility.md",
-    "Code Frameworks/CSS/Styling/Nested border-radius.md",
-    "Code Frameworks/CSS/Styling/Logo Blur color effect.md",
-    "Code Frameworks/CSS/Styling/before & after pseudo.md",
-    "Code Frameworks/CSS/Responsivness/img reset.md",
-    "Code Frameworks/CSS/Responsivness/Column- span.md",
-    "Code Frameworks/CSS/Resources/web.dev.resource.md",
-    "Code Frameworks/CSS/Resources/Typescale.resource.md",
-    "Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
-    "main/UI Design/Pixels or px.md",
-    "main/UI Design/UI design.md",
-    "Untitled.canvas"
-=======
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
-    }
-  },
-  "active": "f85665d9e82b62db",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "main/UI Design/test file.md",
-    "gitignore",
-    "Welcome.md",
-    "main/UI Design/Assets/IMG_1739.png",
-    "main/UI Design/Assets/IMG_1737.png",
-    "main/UI Design/Assets/IMG_1736.png",
-    "main/UI Design/Assets/IMG_1735.png",
-    "main/UI Design/Assets/IMG_1734.png",
-    "main/UI Design/Assets/IMG_1733.png",
-    "main/UI Design/Assets/IMG_1678.png",
-    "main/UI Design/Assets/IMG_1678 1.png",
-    "main/UI Design/Assets/IMG_1677.webp",
-    "main/UI Design/X-height, Baseline, Cap-height.md",
-    "main/UI Design/UI design.md",
-    "main/UI Design/text On color background.md",
-    "main/UI Design/SCALING SYSTEM.md",
-    "main/UI Design/Points or pts Units..md",
-    "main/UI Design/Pixels or px.md",
-    "main/UI Design/Assets",
-    "main/UI Design",
-    "main/Code Frameworks/SCSS/Guidelines/Syntax & Formatting/Using Quotes.md",
-    "main/Code Frameworks/SCSS/Guidelines/Guidelines (Resource).md",
-    "main/Code Frameworks/SCSS/Guidelines/Syntax & Formatting",
-    "main/Code Frameworks/SCSS/Benefits/SCSS Browser Compatibility.md",
-    "main/Code Frameworks/CSS/Styling/Nested border-radius.md",
-    "main/Code Frameworks/CSS/Styling/Logo Blur color effect.md",
-    "main/Code Frameworks/CSS/Styling/before & after pseudo.md",
-    "main/Code Frameworks/CSS/Snippets/IMG_1781.png",
-    "main/Code Frameworks/CSS/Responsivness/img reset.md",
-    "main/Code Frameworks/CSS/Responsivness/Column- span.md",
-    "main/Code Frameworks/CSS/Resources/web.dev.resource.md",
-    "main/Code Frameworks/CSS/Resources/Typescale.resource.md",
-    "main/Code Frameworks/CSS/Resources/Fancy Border Radius.resource.md",
-    "main/Code Frameworks/SCSS/Guidelines",
-    "main/Code Frameworks/SCSS/Benefits",
-    "main/Code Frameworks/CSS/Styling",
-    "main/Code Frameworks/CSS/Snippets",
-    "main/Code Frameworks/CSS/Responsivness",
-    "main/Code Frameworks/CSS/Resources"
->>>>>>> 8ce8013114a837d6180b18eda8ef04fca9dda5e3
-  ]
+  "active": "07557840311b17bc",
+  "lastOpenFiles": []
 }
